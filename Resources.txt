@@ -49,4 +49,3 @@ development. I work in Java, Scala, JavaScript, Python, Go, and
 address OO design, functional design, and software architecture 
 topics, and am happy to deliver training either onsite or web-based,
 or to build courses and training material in video or other formats.
-
